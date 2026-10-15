@@ -1,0 +1,15 @@
+[
+    {
+        "id": "5689911430",
+        "title": "الارجنتين",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/on-sport-1\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    }
+]

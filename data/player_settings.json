@@ -1,0 +1,121 @@
+{
+    "theme": {
+        "accent": "#e11d48",
+        "accent2": "#d4af37",
+        "bar_bg": "#0a0c15",
+        "bar_text": "#f4f6fb",
+        "tab_bg": "#181b2a",
+        "tab_text": "#98a2ba",
+        "player_bg": "#05060b",
+        "bar_visible": 1,
+        "bar_position": "top",
+        "btn_size": "m",
+        "btn_radius": 6,
+        "show_embed": 1,
+        "show_share": 1,
+        "show_fullscreen": 1,
+        "show_refresh": 1
+    },
+    "logo": {
+        "enabled": 1,
+        "src": "data\/uploads\/player-logo-1790890757.png",
+        "x": 98,
+        "y": 3,
+        "width": 14,
+        "opacity": 85,
+        "radius": 0,
+        "link": ""
+    },
+    "text": {
+        "enabled": 1,
+        "content": "شاهد عبر تطبيق شوت لايف من جوجل بلاي او ابب ستور",
+        "x": 32.5,
+        "y": 100,
+        "size": 16,
+        "color": "#ffffff",
+        "bg": "#000000",
+        "bg_opacity": 45,
+        "weight": "700",
+        "opacity": 100,
+        "anim": "none",
+        "speed": 14,
+        "radius": 8
+    },
+    "ads": {
+        "top": {
+            "enabled": 0,
+            "code": "",
+            "height": 60
+        },
+        "bottom": {
+            "enabled": 0,
+            "code": "",
+            "height": 60,
+            "closable": 1,
+            "close_after": 0
+        },
+        "preroll": {
+            "enabled": 0,
+            "code": "",
+            "seconds": 8,
+            "skip_after": 5,
+            "width": 300,
+            "height": 250
+        },
+        "corner": {
+            "enabled": 0,
+            "code": "",
+            "width": 300,
+            "height": 250,
+            "delay": 10,
+            "side": "left"
+        }
+    },
+    "brand": {
+        "site_name": "",
+        "poster": ""
+    },
+    "tracking": {
+        "code": "<!-- Histats.com  START  (aync)-->\n<script type=\"text\/javascript\">var _Hasync= _Hasync|| [];\n_Hasync.push(['Histats.start', '1,5019191,4,0,0,0,00010000']);\n_Hasync.push(['Histats.fasi', '1']);\n_Hasync.push(['Histats.track_hits', '']);\n(function() {\nvar hs = document.createElement('script'); hs.type = 'text\/javascript'; hs.async = true;\nhs.src = ('\/\/s10.histats.com\/js15_as.js');\n(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);\n})();<\/script>\n<noscript><a href=\"\/\" target=\"_blank\"><img  src=\"\/\/sstatic1.histats.com\/0.gif?5019191&101\" alt=\"web site hit counter\" border=\"0\"><\/a><\/noscript>\n<!-- Histats.com  END  -->",
+        "disable_builtin": 0
+    },
+    "builtin": {
+        "disable_pops": 0,
+        "disable_popup": 0
+    },
+    "pops": {
+        "pop1": {
+            "enabled": 0,
+            "code": "",
+            "trigger": "load",
+            "delay": 0,
+            "once": 0,
+            "scope": "both"
+        },
+        "pop2": {
+            "enabled": 0,
+            "code": "",
+            "trigger": "load",
+            "delay": 0,
+            "once": 0,
+            "scope": "both"
+        },
+        "pop3": {
+            "enabled": 0,
+            "code": "",
+            "trigger": "load",
+            "delay": 0,
+            "once": 0,
+            "scope": "both"
+        }
+    },
+    "pop_opts": {
+        "shield_mode": "cooldown",
+        "shield_cooldown": 4,
+        "count": 0
+    },
+    "protect": {
+        "shell": 0,
+        "devtools": 0
+    }
+}

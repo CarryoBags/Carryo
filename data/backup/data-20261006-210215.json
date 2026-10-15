@@ -1,0 +1,145 @@
+[
+    {
+        "id": "2741284718",
+        "title": "اسبنايا",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-1\/?serv=2",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "8531182097",
+        "title": "انجلترا",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-2\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "6549661967",
+        "title": "سويسرا",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-6\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "8703947840",
+        "title": "لوكس",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-3\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "2138342644",
+        "title": "روسيا",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-4\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "1262473376",
+        "title": "جبل طارق",
+        "date": "2026-10-05",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/yallashoootdasvdvt.online\/hls\/ch1.m3u8",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "4192695784",
+        "title": "السعودية",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/www.youtube.com\/embed\/9StetIBgFZI?si=sdfYObjnUQO9FjMU",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "6616603577",
+        "title": "مولد",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-7\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "7331887549",
+        "title": "البانيا",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-8\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "5926554244",
+        "title": "ايسلاندا",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-9\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "7858152666",
+        "title": "اسكت",
+        "date": "2026-10-06",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/ai.yallashoof.cfd\/albaplayer\/sport-5\/",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    }
+]

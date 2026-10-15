@@ -1,0 +1,145 @@
+[
+    {
+        "id": "7767823537",
+        "title": "ليفربول",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828474&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "5482741724",
+        "title": "كومو",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828475&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "5158273789",
+        "title": "السيتي",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828470&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "7573103503",
+        "title": "دورتموند",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828468&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "6782818982",
+        "title": "ريال مدريد",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828471&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "6272494623",
+        "title": "بورتو",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828472&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "5671132339",
+        "title": "فيلاا",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828473&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "3228413636",
+        "title": "ارسنال",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828482&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "5040493144",
+        "title": "انتر ميلان",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/912acsss8af382.yasirtv.com\/playerv5.php?match=4828479&key=9f39972b67d6ce22189507d008acwc26",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "4028974684",
+        "title": "صباح",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/yallashooott.online\/hls\/ch1.m3u8",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    },
+    {
+        "id": "2614631944",
+        "title": "لشبونة",
+        "date": "2026-10-13",
+        "1": {
+            "name": "البث الرئيسي",
+            "Stream_Url": "https:\/\/yallashooott.online\/hls\/ch1.m3u8",
+            "player": "iframe",
+            "Link_type": "embed",
+            "use_proxy": false,
+            "device": "legacy"
+        }
+    }
+]
